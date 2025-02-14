@@ -1,7 +1,5 @@
-name = "Mohammad Emon"
-age = 25
-salary = 17.500
+a = 10
+b = 2.20
 
-print(type  (name))
-print(type (age))
-print(type (salary))
+sum = a+b
+print(sum)

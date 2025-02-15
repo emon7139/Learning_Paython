@@ -1,5 +1,6 @@
-a = 10
-b = 2.20
+#Taking input from user & printing it
+name = input("name : ")
+age = int(input("age : "))
 
-sum = a+b
-print(sum)
+
+print("My name is", name, "and I am", age, "years old")
